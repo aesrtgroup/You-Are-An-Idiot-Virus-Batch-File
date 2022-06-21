@@ -1,1 +1,1 @@
-start youareidiot.org
+start https://youareidiot.org/
